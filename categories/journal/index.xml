@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>PitiKid</copyright>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/journal/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2020,关于我的一些故事</title>
       <link>http://localhost:1313/post/about/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/about/</guid>
       <description>关于我 我，一个长江大学计科16级的普通学生，嘴上说，自己喜欢编程，可能不过是喜欢别人的崇拜。 自己的虚伪可能只有自己知道，为了能把程序写出来，</description>
@@ -24,7 +24,7 @@
     <item>
       <title>写文章我选择Hugo&#43;emacs</title>
       <link>http://localhost:1313/post/daily/first/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/daily/first/</guid>
       <description>最后还是选择了Hugo + emacs 为什么选择Hugo Hexo 准备环境好麻烦，听说Hugo只需要一个二进制文件，于是就换成了Hugo 为什么选择emacs 选择</description>
