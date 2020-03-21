@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>PitiKid</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Python进阶学习</title>
       <link>http://localhost:1313/post/notes/python%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/notes/python%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0/</guid>
       <description>Python进阶学习 心血来潮，想提升一下自己的Python基础，自己之前浪费的时间现在想慢慢找回来，重新面对失败的过去，怎么说呢，面对失败的</description>
@@ -24,7 +24,7 @@
     <item>
       <title>学习英语开始的地方</title>
       <link>http://localhost:1313/post/notes/%E5%AD%A6%E4%B9%A0%E8%8B%B1%E8%AF%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/notes/%E5%AD%A6%E4%B9%A0%E8%8B%B1%E8%AF%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</guid>
       <description>学习英语开始的地方 这几天看国外的文章，文档，和论文，渐渐意识到，英语是多么的重要。考研那段时间背的一些单词，现在也逐渐忘记，现在的我真的需要</description>
@@ -33,7 +33,7 @@
     <item>
       <title>月计划(常更新)</title>
       <link>http://localhost:1313/post/daily/month/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/daily/month/</guid>
       <description>2020 2月 [85%] 完成毕业设计 [100%] 训练seq2seq模型 训练seqgan模型 整合程序 [-] 完成毕业设计论文 [33%] 整合程序结果 看论文 收集论文引用 瘦到190斤 完成给</description>
@@ -42,7 +42,7 @@
     <item>
       <title>2020,关于我的一些故事</title>
       <link>http://localhost:1313/post/about/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/about/</guid>
       <description>关于我 我，一个长江大学计科16级的普通学生，嘴上说，自己喜欢编程，可能不过是喜欢别人的崇拜。 自己的虚伪可能只有自己知道，为了能把程序写出来，</description>
@@ -51,7 +51,7 @@
     <item>
       <title>写文章我选择Hugo&#43;emacs</title>
       <link>http://localhost:1313/post/daily/first/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://localhost:1313/post/daily/first/</guid>
       <description>最后还是选择了Hugo + emacs 为什么选择Hugo Hexo 准备环境好麻烦，听说Hugo只需要一个二进制文件，于是就换成了Hugo 为什么选择emacs 选择</description>
