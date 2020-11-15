@@ -3,84 +3,56 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-03-09T16:34:58+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/learning/</loc>
-    <lastmod>2020-03-02T23:02:21+08:00</lastmod>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2020-03-09T16:34:58+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2020-03-02T23:02:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/notes/python%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-03-02T23:02:21+08:00</lastmod>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-03-09T16:34:58+08:00</lastmod>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-03-09T16:34:58+08:00</lastmod>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/english/</loc>
-    <lastmod>2020-02-18T22:42:31+08:00</lastmod>
+    <loc>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/me/</loc>
-    <lastmod>2020-03-09T16:34:58+08:00</lastmod>
+    <loc>http://localhost:1313/categories/%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/plan/</loc>
-    <lastmod>2020-03-03T15:32:50+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/notes/%E5%AD%A6%E4%B9%A0%E8%8B%B1%E8%AF%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</loc>
-    <lastmod>2020-02-18T22:42:31+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/daily/month/</loc>
-    <lastmod>2020-03-03T15:32:50+00:00</lastmod>
+    <loc>http://localhost:1313/post/daily/%E9%87%8D%E6%96%B0%E5%90%AF%E7%A8%8B/</loc>
+    <lastmod>2020-11-15T15:10:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -93,22 +65,8 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/heart/</loc>
-    <lastmod>2020-02-17T21:43:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/journal/</loc>
+    <loc>http://localhost:1313/tags/%E6%88%91/</loc>
     <lastmod>2020-03-09T16:34:58+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/daily/first/</loc>
-    <lastmod>2020-02-17T21:43:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

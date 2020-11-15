@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 可怜儿童小屋</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on 可怜儿童小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>PitiKid</copyright>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flutter开始的地方</title>
+      <link>http://localhost:1313/notes/flutter/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/notes/flutter/</guid>
+      <description>Flutter Flutter 是Google推出并开源的移动应用开发框架，主打跨平台、高保真、高性能。开发者可以通过 Dart语言开发 App，一套代码同时运行在 iOS 和 An</description>
+    </item>
+    
+  </channel>
+</rss>

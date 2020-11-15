@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>love on 可怜儿童小屋</title>
+    <link>http://localhost:1313/tags/love/</link>
+    <description>Recent content in love on 可怜儿童小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>PitiKid</copyright>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美好的曾经</title>
+      <link>http://localhost:1313/post/daily/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9B%BE%E7%BB%8F/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/daily/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%9B%BE%E7%BB%8F/</guid>
+      <description>缘起 我和你是在一节Java课上认识的，不过我之前都有注意到你，曾经我们之间也有过一丝交集，你可能没有印象了，不过我们最初遇见时那个难忘的瞬间</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>思考 on 可怜儿童小屋</title>
+    <link>http://localhost:1313/tags/%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 思考 on 可怜儿童小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>PitiKid</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重新启程</title>
+      <link>http://localhost:1313/post/daily/%E9%87%8D%E6%96%B0%E5%90%AF%E7%A8%8B/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/daily/%E9%87%8D%E6%96%B0%E5%90%AF%E7%A8%8B/</guid>
+      <description>重新启程 从三月份到现在已经经过了8个月的时间，学习倒是没有学到什么，女朋友回来了，考上研究生了，在研究生的生活中，帮师姐完成了她的论文的实验</description>
+    </item>
+    
+  </channel>
+</rss>

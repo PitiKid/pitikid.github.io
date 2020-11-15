@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>PitiKid</copyright>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/categories/plan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/plan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>月计划(常更新)</title>
       <link>http://localhost:1313/post/daily/month/</link>
